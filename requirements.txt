@@ -1,7 +1,6 @@
 streamlit
 pandas
 matplotlib
-font_manager
 platform
 open
 openpyxl
